@@ -1,2 +1,2 @@
 # GoogleTransitAracaju
-Google Transite Aracaju
+Google Transit Aracaju
